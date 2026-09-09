@@ -1,4 +1,3 @@
-```markdown
 # SOC Incident Investigation Report
 
 ## Microsoft 365 Credential Phishing Campaign
